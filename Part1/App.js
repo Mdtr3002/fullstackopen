@@ -16,7 +16,7 @@ const Header = (headerprop) => {
   return(
     <>
     <Part part={contentprop.part1} exercises={contentprop.exercises1} />
-    <Part part={contentprop.part1} exercises={contentprop.exercises1} />
+    <Part part={contentprop.part2} exercises={contentprop.exercises2} />
     <Part part={contentprop.part3} exercises={contentprop.exercises3} />
     </>
   )
